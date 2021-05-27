@@ -1,0 +1,19 @@
+{
+  "name": "sass-try-1",
+  "version": "1.0.0",
+  "description": "sass try-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "sass",
+    "npm",
+    "minify"
+  ],
+  "author": "Aichurok",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.34.0"
+  }
+}
